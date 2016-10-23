@@ -1,0 +1,19 @@
+{
+  "name": "agout",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/azar284286/agout.git"
+  },
+  "author": "aleksey",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/azar284286/agout/issues"
+  },
+  "homepage": "https://github.com/azar284286/agout#readme"
+}
